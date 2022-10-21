@@ -20,16 +20,16 @@ var dataSet: [Int] = []
 // Populate the list
 
 // Best case scenario – already sorted
-dataSet.append(3)
-dataSet.append(6)
-dataSet.append(10)
-dataSet.append(13)
-dataSet.append(17)
-dataSet.append(19)
-dataSet.append(89)
-dataSet.append(93)
-dataSet.append(94)
 dataSet.append(96)
+dataSet.append(94)
+dataSet.append(93)
+dataSet.append(89)
+dataSet.append(19)
+dataSet.append(17)
+dataSet.append(13)
+dataSet.append(10)
+dataSet.append(6)
+dataSet.append(3)
 
 //for _ in 1...10 {
 //    dataSet.append(Int.random(in: 1...100))
